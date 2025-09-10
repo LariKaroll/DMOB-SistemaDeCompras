@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sistema de Compras</string>
+    <string name="total_das_compras">Total das Compras</string>
+    <string name="arroz_r_2_69">Arroz (R$2,69)</string>
+    <string name="carne_r_10_90">Carne (R$ 10,90)</string>
+    <string name="feij_o_r_2_30">Feijão (R$ 2,30)</string>
+    <string name="leite_r_5_00">Leite (R$ 5,00)</string>
+    <string name="escolha_o_seu_produto">Escolha o seu produto:</string>
+    <string name="cart_o_de_cr_dito">Cartão de Crédito</string>
+    <string name="cart_o_de_d_bito">Cartão de Débito</string>
+    <string name="forma_de_pagamento">Forma de Pagamento</string>
+</resources>
